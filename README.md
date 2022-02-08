@@ -1,2 +1,2 @@
 # code-squibs
-Random code snippets
+Some random code snippets I work on.
